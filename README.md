@@ -78,3 +78,8 @@ if __name__ == "__main__":
         answer = chatbot.answer(question)
         print('Chatbot:', answer)
 ~~~
+
+## 실행
+~~~
+python main.py
+~~~
